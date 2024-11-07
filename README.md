@@ -34,7 +34,7 @@ I'm an aspiring Full Stack Developer. Currently following a one-year course at S
 
 ### Stats
 
-![bvnderb GitHub stats](https://github-readme-stats.vercel.app/api?username=bvnderb&show_icons=true&theme=github_dark)
+
 
 <br>
 <hr>
