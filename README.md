@@ -29,17 +29,23 @@ I'm an aspiring Full Stack Developer. Currently following a one-year course at S
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-
-#
+<br>
+<hr>
 
 ### Stats
 
 ![bvnderb GitHub stats](https://github-readme-stats.vercel.app/api?username=bvnderb&show_icons=true&theme=github_dark)
 
-#
-
+<br>
+<hr>
 
 <details>
-         <summary><h3>bvnderb's Coding Journey</h3></summary>
-         
+<summary><h3>bvnderb's Coding Journey</h3></summary>
+I began my journey in the tech world from a non-IT background, starting from scratch with little knowledge of computers and technology.<br>
+Over the years, my passion for technology grew immensely, leading me to pursue several training programs that equipped me with skills in hardware troubleshooting and system administration. However, my thirst for knowledge didn’t stop there.<br>
+Driven by curiosity and a desire to learn more, I developed an interest in coding and decided to enroll in an educational program focused on IT. While I wasn’t able to complete this program, it provided me with a solid foundation in C# and SQL, which sparked my enthusiasm for software development.<br>
+A few years later, I took the initiative to continue my learning journey by working on a personal project: a Discord bot written in Python. This project not only honed my coding skills but also deepened my understanding of programming concepts.<br>
+Currently, I am furthering my education at Syntra PXL, where I am enrolled in a one-year program to become a Full Stack Developer. This opportunity allows me to expand my skill set and explore both front-end and back-end development.<br>
+<br>
+I am excited about the future and eager to continue growing as a developer, embracing new challenges and opportunities along the way.
 </details>
