@@ -2,17 +2,21 @@
 
 **`Digital Craftsman (Full Stack Developer)`**
 
-I'm an aspiring Full Stack Developer. Currently following a one-year course at Syntra PXL. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+🇧🇪 Belgium
+
+I'm an aspiring Full Stack Developer. 🚀 <br>
+Currently following a one-year course at Syntra PXL. <br>
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bvnderb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/bvnderb?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bvnderb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bvnderb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/bvnderb?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bvnderb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
 </p>
 
 ---
 
-### Code Stack and Tools
+### 💻 Code Stack and Tools
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -32,7 +36,7 @@ I'm an aspiring Full Stack Developer. Currently following a one-year course at S
 <br>
 <hr>
 
-### Stats
+### 📊 Stats
 
 ![bvnderb GitHub stats](https://github-readme-stats.vercel.app/api?username=bvnderb&show_icons=true&theme=github_dark)
 
