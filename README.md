@@ -1,6 +1,6 @@
 # bvnderb
 
-**`Digital Craftsman (Full Stack Developer)`**
+**`Digital Craftsman (Fullstack Developer)`**
 
 🇧🇪 Belgium
 
